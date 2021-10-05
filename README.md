@@ -1,4 +1,4 @@
-# Chapter 17: Sentiment-Analysis
+# Chapter 17: Sentiment Analysis
 
 ## Gauging opinions of large groups
 
