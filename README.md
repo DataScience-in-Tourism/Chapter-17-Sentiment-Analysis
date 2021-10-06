@@ -1,6 +1,7 @@
 # Chapter 17: Sentiment Analysis
 
 ## Gauging opinions of large groups
+## http://www.datascience-in-tourism.com/
 
 ***Andrei P. Kirilenko***, ***Luyu Wang*** & ***Svetlana O. Stepchenkova***
 
