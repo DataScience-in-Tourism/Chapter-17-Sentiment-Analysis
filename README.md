@@ -4,6 +4,7 @@
 ## http://www.datascience-in-tourism.com/
 
 ***Andrei P. Kirilenko***, ***Luyu Wang*** & ***Svetlana O. Stepchenkova***
+* University of Florida
 
 ### Abstract
 
